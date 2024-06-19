@@ -6,6 +6,7 @@ console.log(gl);
 
 const player = new Player({
     app: {
-
+	token: "PC1EhJwV93I5lJTE",
     },
+    mediaElement: canvas
 });
